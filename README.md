@@ -3,7 +3,7 @@ Task Section 3 - Versioning Control with Git
 
 Version Control and Branch Management
 Apa itu versioning?
-- pelacakan perubahan code dari program kita.
+- melakukan pengaturan versi
 - dilakukan untuk tracking, melihat dimana kesalahan dan apa yang menyebabkan kesalahan, siapa yang melakukan kesalahan, dll.
 
 Tools
